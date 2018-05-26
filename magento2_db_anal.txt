@@ -1869,7 +1869,8 @@ QTranslate 버전:  6.1.0
 
     1485921324
 	
-	
+	https://github.com/hatemogi/git-kickstart
+	--------------------------------
 git config --global user.name "Jangwoong"
 git config --global user.email "changwng@gmail.com"
 git config color.ui true
