@@ -1868,3 +1868,12 @@ QTranslate 버전:  6.1.0
     pub/static 폴더 아래 deployed_version.txt    
 
     1485921324
+	
+	
+git config --global user.name "Jangwoong"
+git config --global user.email "changwng@gmail.com"
+git config color.ui true
+
+git config --global core.quotepath false
+git config --global core.precomposeunicode true
+git config --global push.default simple
